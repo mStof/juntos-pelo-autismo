@@ -1,0 +1,11 @@
+.article_info_color{
+    background: var(--color-red-100);
+    display: flex;
+    flex-direction: column;
+    gap: 60px;
+    padding: 60px 120px;
+}
+
+.article_info {
+    padding: 60px 120px;
+}
